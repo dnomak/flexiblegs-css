@@ -11,7 +11,7 @@ Flexible Grid System CSS
 </head>
 ```
 
-### [npm](https://www.npmjs.com/package/flexiblegs-css)
+### [Npm](https://www.npmjs.com/package/flexiblegs-css)
 ```
 $ npm install --save flexiblegs-css
 ```
