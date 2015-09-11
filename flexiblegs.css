@@ -1,4 +1,4 @@
-﻿/*! Flexible Grid System 5.4.0 | CSS | MIT License | flexible.gs */
+﻿/*! Flexible Grid System 5.4.1 | CSS | MIT License | flexible.gs */
 
 .wrap {
   display: block;
@@ -11,8 +11,11 @@
   box-sizing: border-box;
 }
 
-.col {
+.wrap > * {
   display: inline-block;
+}
+
+.col {
   min-height: 1px;
   font-size: 1rem;
   vertical-align: middle;
