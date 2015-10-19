@@ -1,6 +1,6 @@
 {
   "name": "flexiblegs-css",
-  "version": "5.4.1",
+  "version": "5.4.2",
   "homepage": "http://flexible.gs",
   "description": "Flexible Grid System CSS",
   "keywords": [
@@ -12,7 +12,7 @@
     "flexbox",
     "flex"
   ],
-  "main": "flexiblegs.css",
+  "main": "flexiblegs-css.css",
   "author": "@dnomak",
   "license": "MIT",
   "ignore": [

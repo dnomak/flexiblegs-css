@@ -4,10 +4,10 @@ Flexible Grid System CSS
 
 ## Install
 
-### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-css/master/flexiblegs.css)
+### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-css/master/flexiblegs-css.css) the file and add the project as follows.
 ```html
 <head>
-  <link rel="stylesheet" href="flexiblegs.css">
+  <link rel="stylesheet" href="flexiblegs-css.css">
 </head>
 ```
 
@@ -16,7 +16,7 @@ Flexible Grid System CSS
 $ npm install --save flexiblegs-css
 ```
 
-### [Bower](http://bower.io)
+### [bower](http://bower.io/search/?q=flexiblegs-css)
 ```
 $ bower install --save flexiblegs-css
 ```
