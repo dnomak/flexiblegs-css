@@ -4,7 +4,7 @@ Flexible Grid System CSS
 
 ## Install
 
-### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-css/master/flexiblegs-css.css) the file and add the project as follows.
+### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-css/master/flexiblegs-css.css)
 ```html
 <head>
   <link rel="stylesheet" href="flexiblegs-css.css">
