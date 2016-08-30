@@ -1,4 +1,4 @@
-/*! Flexible Grid System 5.5.2 | CSS | MIT License | flexible.gs */
+/*! Flexible Grid System 5.5.3 | CSS | MIT License | flexible.gs */
 
 .wrap {
   display: block;
@@ -13,6 +13,7 @@
 
 .wrap > * {
   display: inline-block;
+  vertical-align: top;
 }
 
 .col {
