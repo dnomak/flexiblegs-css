@@ -1,20 +1,14 @@
 {
   "name": "flexiblegs-css",
-  "version": "5.5.3",
-  "homepage": "http://flexible.gs",
+  "version": "5.6.0",
+  "homepage": "https://dnomak.com/flexiblegs/",
   "description": "Flexible Grid System CSS",
-  "keywords": [
-    "css",
-    "grid",
-    "responsive",
-    "framework",
-    "flexible",
-    "flexbox",
-    "flex"
-  ],
-  "main": "flexiblegs-css.css",
-  "author": "@dnomak",
+  "author": "@dnomak <me@dnomak.com>",
   "license": "MIT",
+  "main": "flexiblegs-css.css",
+  "keywords": [
+    "css"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/flexiblegs/flexiblegs-css.git"

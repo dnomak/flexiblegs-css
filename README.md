@@ -1,4 +1,4 @@
-# [flexiblegs-css](http://flexible.gs)
+# [flexiblegs-css](https://dnomak.com/flexiblegs/)
 
 Flexible Grid System CSS
 
@@ -12,17 +12,10 @@ Flexible Grid System CSS
 ```
 
 ### [npm](https://www.npmjs.com/package/flexiblegs-css)
-```
+```bash
 $ npm install --save flexiblegs-css
-```
-
-### [bower](http://bower.io/search/?q=flexiblegs-css)
-```
-$ bower install --save flexiblegs-css
 ```
 
 ## License
 - Flexible Grid System is licensed under the MIT license.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
-- Flexible Grid System documentation is licensed under a Creative Commons Attribution 4.0 International License.
-  - [http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)
